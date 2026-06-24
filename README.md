@@ -53,70 +53,70 @@ Este repositorio contiene la evidencia fotográfica del despliegue de dos servid
 ![Paso 14](./16_image9.png)
 
 ### Paso 15: Acceso al Administrador del servidor (Server Manager)
-![Paso 15](./17_image.png)
+![Paso 15](./17_image30.png)
 
 ### Paso 16: Instalación del rol "Servidor web (IIS)"
-![Paso 16](./18_image.png)
+![Paso 16](./18_image12.png)
 
 ### Paso 17: Configuración de IIS y habilitación de características HTTP
-![Paso 17](./19_image.png)
+![Paso 17](./19_image16.png)
 
 ### Paso 18: Instalación del servicio FTP (FTP Server)
-![Paso 18](./20_image.png)
+![Paso 18](./20_image18.png)
 
 ### Paso 19: Configuración del servicio FTP en IIS
-![Paso 19](./21_image.png)
+![Paso 19](./21_image1.png)
 
 ### Paso 20: Verificación de los servicios IIS y FTP en estado "En ejecución"
-![Paso 20](./22_image.png)
+![Paso 20](./22_image22.png)
 
 ### Paso 21: Descarga del logo de Duoc UC en Windows
-![Paso 21](./23_image.png)
+![Paso 21](./23_image8.png)
 
 ### Paso 22: Navegación a la carpeta raíz del sitio web IIS (`C:\inetpub\wwwroot\`)
-![Paso 22](./24_image.png)
+![Paso 22](./24_image29.png)
 
 ### Paso 23: Colocación del logo de Duoc UC en la carpeta raíz del sitio
-![Paso 23](./25_image.png)
+![Paso 23](./25_image31.png)
 
 ### Paso 24: Creación de la página de bienvenida (`index.html`) con nombre del estudiante
-![Paso 24](./26_image.png)
+![Paso 24](./26_image19.png)
 
 ### Paso 25: Edición del contenido HTML con nombre e información del estudiante
-![Paso 25](./27_image.png)
+![Paso 25](./27_image11.png)
 
 ### Paso 26: Inserción del logo en la página HTML
-![Paso 26](./28_image.png)
+![Paso 26](./28_image26.png)
 
 ### Paso 27: Guardado de la página `index.html` en `C:\inetpub\wwwroot\`
-![Paso 27](./29_image.png)
+![Paso 27](./29_image36.png)
 
 ### Paso 28: Verificación del sitio web desde el navegador (Servidor Windows)
-![Paso 28](./30_image.png)
+![Paso 28](./30_image21.png)
 
 ### Paso 29: Configuración de permisos FTP para usuarios
-![Paso 29](./31_image.png)
+![Paso 29](./31_image5.png)
 
 ### Paso 30: Creación de cuenta de usuario para acceso FTP
-![Paso 30](./32_image.png)
+![Paso 30](./32_image24.png)
 
 ### Paso 31: Asignación de permisos FTP al usuario creado
-![Paso 31](./33_image.png)
+![Paso 31](./33_image14.png)
 
 ### Paso 32: Verificación de conectividad al servidor FTP mediante cliente FTP
-![Paso 32](./34_image.png)
+![Paso 32](./34_image25.png)
 
 ### Paso 33: Descarga de archivos a través del servidor FTP
-![Paso 33](./35_image.png)
+![Paso 33](./35_image28.png)
 
 ### Paso 34: Prueba de carga de archivos mediante FTP
-![Paso 34](./36_image.png)
+![Paso 34](./36_image17.png)
 
 ### Paso 35: Verificación de los archivos subidos en el servidor web
-![Paso 35](./37_image.png)
+![Paso 35](./10_image34.png)
 
 ### Paso 36: Confirmación final del despliegue de ambos servidores (Linux y Windows)
-![Paso 36](./38_image.png)
+![Paso 36](./10_image34.png)
 
 ---
 
@@ -191,7 +191,7 @@ Este repositorio contiene la evidencia fotográfica del despliegue de dos servid
 
 ## Evidencias
 
-Todas las capturas de pantalla del proceso (36 imágenes en total) se encuentran en este repositorio, numeradas del 01 al 36 en el orden secuencial en que se realizaron los pasos.
+Todas las capturas de pantalla del proceso (36 imágenes en total) se encuentran en este repositorio, numeradas del 01 al 36 en el orden secuencial en que se realizaron los pasos. Cada paso incluye su correspondiente evidencia fotográfica del despliegue.
 
 ---
 
