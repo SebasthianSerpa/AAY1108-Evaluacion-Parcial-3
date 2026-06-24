@@ -1,7 +1,6 @@
 # AAY1108 - Evaluación Parcial 3
 ## Sistemas y Servicios en Cloud — Duoc UC
 
-**Estudiante:** Vicente Salazar
 
 Evidencia del despliegue de dos servidores en AWS (AWS Academy Learner Lab): uno Linux (RHEL 9) y uno Windows Server 2019, cada uno con su servidor web configurado y una página de bienvenida personalizada.
 
