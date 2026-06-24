@@ -1,20 +1,8 @@
 # AAY1108 - Evaluación Parcial 3
 ## Sistemas y Servicios en Cloud — Duoc UC
 
-**Estudiante:** Vicente Salazar
 
-Este repositorio contiene la evidencia fotográfica del despliegue de dos servidores en AWS (AWS Academy Learner Lab), correspondiente a la Evaluación Parcial 3.
 
----
-
-# 📋 TABLA DE CONTENIDOS
-
-1. [Servidor Linux (RHEL 9)](#servidor-linux-rhel-9) - Pasos 1-10
-2. [Servidor Windows Server 2019](#servidor-windows-server-2019) - Pasos 11-34
-3. [Configuraciones Finales](#configuraciones-finales)
-4. [Notas Técnicas](#notas-técnicas)
-
----
 
 # 🐧 SERVIDOR LINUX (RHEL 9)
 
@@ -592,23 +580,6 @@ Implementación de un servidor web IIS con servicio FTP en Windows Server 2019 e
 
 ---
 
-# ⚙️ CONFIGURACIONES FINALES
-
-## Comparativa: Linux vs Windows
-
-| Característica | Linux (RHEL 9) | Windows Server 2019 |
-|---|---|---|
-| **Sistema Operativo** | Red Hat Enterprise Linux 9 | Windows Server 2019 Datacenter |
-| **Servidor Web** | Apache httpd 2.4+ | Internet Information Services (IIS) 10 |
-| **Servidor FTP** | Opcional (vsftpd) | FTP Publishing Service (integrado) |
-| **Acceso Remoto** | SSH (puerto 22) | RDP (puerto 3389) |
-| **Interfaz** | Terminal/Línea de comandos | GUI (Graphical User Interface) |
-| **Directorio raíz web** | `/var/www/html/` | `C:\inetpub\wwwroot\` |
-| **Gestor de servicios** | systemctl | Services.msc |
-| **Tipo de instancia** | t3.medium | t3.medium |
-| **Ubicación archivos** | `/etc/`, `/var/` | `C:\Windows\`, `C:\Program Files\` |
-
----
 
 ## Resumen de Configuraciones
 
