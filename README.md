@@ -48,40 +48,7 @@ Este repositorio contiene la evidencia fotográfica del despliegue de dos servid
 
 ---
 
-## Ítem 2 — Servidor Windows Server 2019
 
-**Configuración:**
-- Instancia EC2: Microsoft Windows Server 2019 Datacenter (con GUI)
-- Tipo de instancia: t3.medium (2 vCPU, 4 GB RAM)
-- Security Group: RDP (puerto 3389), HTTP (puerto 80) y FTP (puerto 21) abiertos, origen 0.0.0.0/0
-
-**Pasos realizados:**
-
-1. Creación de la instancia EC2 con Windows Server 2019 Base.
-   ![Paso 1](./13_image2.png)
-
-2. Configuración del Security Group permitiendo tráfico RDP, HTTP y FTP.
-   ![Paso 2](./14_image7.png)
-
-3. Creación del par de claves para desencriptar la contraseña de administrador.
-   ![Paso 3](./15_image33.png)
-
-4. Conexión remota mediante Escritorio Remoto (RDP).
-
-5. Instalación del rol "Servidor web (IIS)" junto con el servicio FTP (FTP Server).
-
-6. Verificación de la correcta instalación del rol y servicios.
-
-7. Descarga del logo de Duoc UC y alojamiento en el servidor (`C:\inetpub\wwwroot\`).
-
-8. Creación de una página de bienvenida (`index.html`) con nombre del estudiante y logo institucional.
-
-9. Configuración de un sitio FTP en IIS sobre la misma carpeta de contenido.
-
-10. Verificación del sitio web (HTTP) y del servicio FTP desde el navegador.
-    ![Paso final](./16_image9.png)
-
-11. Detención de la instancia.
 
 ---
 
