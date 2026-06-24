@@ -18,13 +18,14 @@ Este repositorio contiene la evidencia fotográfica del despliegue de dos servid
 1. Creación de la instancia EC2 con RHEL 9.
 2. Configuración del Security Group permitiendo tráfico SSH y HTTP.
 3. Creación del par de claves (key pair) para acceso seguro.
-4. Conexión remota a la instancia mediante PuTTY (SSH).
-5. Instalación del servidor web Apache (`httpd`).
-6. Verificación del estado del servicio e inicio del mismo (`systemctl status/start httpd`).
-7. Descarga del logo de Duoc UC y alojamiento en el servidor (`/var/www/html/`).
-8. Modificación de la página de bienvenida (`index.html`) con nombre del estudiante y logo institucional.
-9. Verificación del sitio web desde el navegador.
-10. Detención de la instancia.
+   01_image13.png
+5. Conexión remota a la instancia mediante PuTTY (SSH).
+6. Instalación del servidor web Apache (`httpd`).
+7. Verificación del estado del servicio e inicio del mismo (`systemctl status/start httpd`).
+8. Descarga del logo de Duoc UC y alojamiento en el servidor (`/var/www/html/`).
+9. Modificación de la página de bienvenida (`index.html`) con nombre del estudiante y logo institucional.
+10. Verificación del sitio web desde el navegador.
+11. Detención de la instancia.
 
 ---
 
