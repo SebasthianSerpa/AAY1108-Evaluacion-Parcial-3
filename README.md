@@ -632,7 +632,7 @@ Implementación de un servidor web IIS con servicio FTP en Windows Server 2019 e
 
 
 **Fecha de realización:** 2026-06-24  
-**Estudiante:** Vicente Salazar  
+**Estudiante:** Vicente Salazar  / sebastian  serpa /victor   painen
 **Institución:** Duoc UC  
 **Curso:** AAY1108 - Sistemas y Servicios en Cloud  
 **Evaluación:** Parcial 3
