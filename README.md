@@ -264,7 +264,7 @@ Se detiene la instancia Windows Server 2019 una vez finalizadas todas las verifi
 - Las contraseñas y claves privadas utilizadas durante el proceso no se incluyen ni son visibles en las capturas de este repositorio.
 
 **Fecha de realización:** 24-06-2026
-**Estudiante:** Vicente Salazar
+**Estudiante:** Sebasthian Serpa Vicente Salazar
 **Institución:** Duoc UC
 **Curso:** AAY1108 - Sistemas y Servicios en Cloud
 **Evaluación:** Parcial 3
